@@ -1,5 +1,6 @@
 ---
 title: Hello World
+date: 2019-10-06 11:10:57
 ---
 
 博客创建，参考: [利用 GitHub 从零开始搭建一个博客](https://mp.weixin.qq.com/s/qWMsCUjbmD1tocNEt23qVw)。
